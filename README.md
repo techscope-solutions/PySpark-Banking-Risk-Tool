@@ -26,7 +26,7 @@ This project aims to analyze financial customer data to determine risk indicator
 
 1. Clone the repository:
    ```
-   git clone [[repository URL](https://github.com/techscope-solutions/PySparkBankingRiskTool)]
+   git clone https://github.com/techscope-solutions/PySparkBankingRiskTool
    ```
 2. Navigate to the project directory:
    ```
