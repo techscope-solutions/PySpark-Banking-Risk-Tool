@@ -97,9 +97,9 @@ We welcome contributions to this project! Please follow these steps:
 
 ## License
 
-Distributed under the [MIT]. See `LICENSE` for more information.
+This project has no license.
 
 ## Contact
 
 - Your Name - [courses@techscope.org]
-- Project Link: [[repository URL](https://github.com/techscope-solutions/PySparkBankingRiskTool)]
+- Project Link: [repository URL](https://github.com/techscope-solutions/PySparkBankingRiskTool)
