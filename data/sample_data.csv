@@ -1,0 +1,5 @@
+CustomerId,Income,Debt,PaymentHistory,CreditScore,RiskCategory
+1,50000,10000,Good,700,Low
+2,45000,15000,Average,650,Medium
+3,80000,5000,Excellent,750,Low
+

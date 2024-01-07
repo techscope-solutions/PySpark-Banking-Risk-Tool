@@ -1,0 +1,4 @@
+pyspark==x.x.x
+numpy==x.x.x
+pandas==x.x.x
+pytest==x.x.x
